@@ -1,4 +1,3 @@
-function saludo () {
-
-    alert ("Hola mundo")
+function saludo() {
+  alert("Hola mundo");
 }
